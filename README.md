@@ -1,3 +1,5 @@
+# LLM & NLP Experiments
+
 This repository contains hands-on experiments in **Natural Language Processing (NLP)** using  
 **Hugging Face Transformers**, with a focus on **Arabic and English language models**.
 
